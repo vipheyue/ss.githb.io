@@ -8,7 +8,7 @@
 本帐号仅用于学习科学知识,请勿做他用.
 ```
 
-[去首页获取 ip](https://vipheyue.github.io/ss.githb.io/)
+IP: [去首页获取 ip](https://vipheyue.github.io/ss.githb.io/)
 
 端口:   **443**
 

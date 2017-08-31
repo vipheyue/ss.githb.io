@@ -16,6 +16,7 @@ IP: [去首页获取 ip](https://vipheyue.github.io/ss.githb.io/)
 
 加密方法: **aes-256-cfb**  <-------智障请注意这里
 
+如果需要 VPN 请入群获得账号!!!!!!!!!!!!!!!!!!
 ---------------------------------下载客户端------------------------------
 
 [window客户端](http://heyue.oss-cn-hangzhou.aliyuncs.com/vps/windows-Shadowsocks.exe)

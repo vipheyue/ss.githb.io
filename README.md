@@ -1,9 +1,7 @@
 # VPS 搭建 shadow socks ss 影梭 科学上网 vultr digitalocean   google 客户端下载和配置  账号免费赠送啦 
 
 ```
-公布日期:2017-06-12 12:24:35
-
-不可用时间 2018年1月1日
+不可用!已废弃!
 
 本帐号仅用于学习科学知识,请勿做他用.
 ```
@@ -36,10 +34,3 @@ IP: [去首页获取 ip](https://vipheyue.github.io/ss.githb.io/)
 
 **IOS appstore 搜索  wingy**
 
-
-**建议加群 防止以后找不到本页面 ** 
-
-![4DB9CAC1176E875DB3E64FB0E143FD9E.png](http://upload-images.jianshu.io/upload_images/1170894-c58a866353d1b009.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-如有不懂 **vipheyue@foxmail.com** 
-直接发邮件 说问题 我会提供账号的

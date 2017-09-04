@@ -1,4 +1,4 @@
-# VPS 搭建 shadow socks ss 影梭 科学上网 vultr digitalocean   google 客户端下载和配置  账号免费赠送啦 
+# 
 
 ```
 不可用!已废弃!
